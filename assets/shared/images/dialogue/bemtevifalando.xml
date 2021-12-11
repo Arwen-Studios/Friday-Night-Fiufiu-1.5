@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bemtevifalando.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bemtevi_stop0000" x="0" y="0" width="670" height="668" frameX="0" frameY="-14" frameWidth="670" frameHeight="683"/>
+        <SubTexture name="bemtevi_falando0000" x="0" y="0" width="670" height="668" frameX="0" frameY="-14" frameWidth="670" frameHeight="683"/>
+	<SubTexture name="bemtevi_falando0001" x="0" y="0" width="670" height="668" frameX="0" frameY="-14" frameWidth="670" frameHeight="683"/>
+	<SubTexture name="bemtevi_falando0002" x="670" y="0" width="670" height="683"/>
+	<SubTexture name="bemtevi_falando0003" x="670" y="0" width="670" height="683"/>
+	<SubTexture name="bemtevi_falando0004" x="1340" y="0" width="670" height="668" frameX="0" frameY="-14" frameWidth="670" frameHeight="683"/>
+	<SubTexture name="bemtevi_falando0005" x="1340" y="0" width="670" height="668" frameX="0" frameY="-14" frameWidth="670" frameHeight="683"/>
+</TextureAtlas>
