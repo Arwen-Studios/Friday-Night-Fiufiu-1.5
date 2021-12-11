@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speech_bubble.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialogue0000" x="6" y="6" width="1854" height="554" pivotX="925.15" pivotY="283.4"/>
+	<SubTexture name="dialogue0001" x="6" y="6" width="1854" height="554"/>
+	<SubTexture name="dialogue0002" x="1881" y="6" width="1854" height="554"/>
+	<SubTexture name="dialogue0003" x="1881" y="6" width="1854" height="554"/>
+	<SubTexture name="dialogue0004" x="6" y="581" width="1854" height="554"/>
+	<SubTexture name="dialogue0005" x="6" y="581" width="1854" height="554"/>
+	<SubTexture name="dialogue scream0000" x="1881" y="581" width="2157" height="841" pivotX="1078.95" pivotY="417.2"/>
+	<SubTexture name="dialogue scream0001" x="1881" y="581" width="2157" height="841"/>
+	<SubTexture name="dialogue scream0002" x="6" y="1443" width="2157" height="841"/>
+	<SubTexture name="dialogue scream0003" x="6" y="1443" width="2157" height="841"/>
+	<SubTexture name="dialogue scream0004" x="6" y="2305" width="2157" height="841"/>
+	<SubTexture name="dialogue scream0005" x="6" y="2305" width="2157" height="841"/>
+</TextureAtlas>
