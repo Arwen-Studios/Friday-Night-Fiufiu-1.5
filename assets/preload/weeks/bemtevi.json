@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Mean Kiscadee",
+			"bemtevi",
+			[
+				240,
+				148,
+				67
+			]
+		],
+		[
+			"Whistles",
+			"bemtevi",
+			[
+				240,
+				148,
+				67
+			]
+		],
+		[
+			"Hellbird",
+			"bemtevimal",
+			[
+				230,
+				66,
+				41
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "forest",
+	"weekCharacters": [
+		"bemtevi",
+		"bf",
+		""
+	],
+	"storyName": "bem-te-vi",
+	"weekName": "Bem-Te-Vi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "bemtevi",
+	"startUnlocked": true
+}

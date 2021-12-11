@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"A A Folou",
+			"afolou",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "forest",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "bem-te-vi",
+	"weekName": "A A Folou",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "bemtevi",
+	"startUnlocked": true
+}

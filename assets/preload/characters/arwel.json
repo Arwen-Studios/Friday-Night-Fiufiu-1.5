@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				350,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				170,
+				-21
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				254,
+				90
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-23,
+				-5
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-23,
+				-5
+			],
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				350,
+				0
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				254,
+				90
+			],
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				170,
+				-21
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bemtevi_spicy",
+	"position": [
+		-60,
+		90
+	],
+	"healthicon": "arwel",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		36,
+		60
+	],
+	"camera_position": [
+		-210,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
