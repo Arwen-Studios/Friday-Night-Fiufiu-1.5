@@ -1,0 +1,137 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ufa!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Te peguei."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Foi bem complicado de te capturar."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aah sim!\\nQuase me esqueci."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eu me chamo Arwen..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mas em todo lugar\\neu sou conhecido como Bem-te-vi."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "E meus parentes tambem..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Que estranho."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Enfim."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Gostaria de treinar um pouco, pequeno?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep bee aa skoo dep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Isso mesmo, eu preciso treinar\\num pouco meu canto."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Espero que nao seja um problema..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ja esta pronto?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Que rapido."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Vamo la!"
+		}
+	]
+}

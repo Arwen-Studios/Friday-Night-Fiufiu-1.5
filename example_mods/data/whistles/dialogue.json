@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Olha so, parece que anoiteceu."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nem vimos o tempo passar..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ha ha! Obrigado\\nVoce tambem canta muito bem!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Gostaria de ir mais uma?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bee..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A ultima, por favor!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bee movie."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Depois que terminarmos essa,\\nlibero voce e sua namorada, ok?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skoo dep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bemtevi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Entao... BORA!"
+		}
+	]
+}
