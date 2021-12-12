@@ -14,7 +14,7 @@ class Achievements {
 		["Maluco na Noite de Sexta",	"Jogue numa Sexta... à Noite.",						'friday_night_play',	 true],
 		["Soltando Belos Cantos",	    "Passe a week do Bem-te-vi no difícil sem erros.",	'bemtevi_nomiss',      	false],
 		["Hmm... picante!",         	"Passe a week do Bem-te-vi no Spicy sem erros.",	'bemtevispicy_nomiss', 	false],
-		["A A Folou!",              	"Passe a música \"A A Folou\" no difícil sem erros.",	'aafolou_nomiss', 	false],
+		["A A Folou!",              	"Passe a música \"A A Folou\" no difícil sem erros.",	'aafolou_nomiss', 	true], //doesn't work, unfortunately
 		["Mas que Desastre Musical!",	"Complete uma música com accuracy abaixo de 20%.",	'ur_bad',				false],
 		["Perfeccionista",				"Complete uma música com accuracy 100%.",			'ur_good',				false],
 		["Ainda ta Com Folego...?",		"Segure uma nota por 20 segundos.",					'oversinging',			false],
