@@ -67,10 +67,10 @@ class PlayState extends MusicBeatState
 		['Ruim', 0.5], //From 40% to 49%
 		['Bruh', 0.6], //From 50% to 59%
 		['Meh', 0.69], //From 60% to 68%
-		['Boa', 0.7], //69%
-		['Tá Bom', 0.8], //From 70% to 79%
-		['Tá Ótimo', 0.9], //From 80% to 89%
-		['Foda!', 1], //From 90% to 99%
+		['Tá Bom', 0.7], //69%
+		['Uau', 0.8], //From 70% to 79%
+		['Ótimo', 0.9], //From 80% to 89%
+		['Tá foda!', 1], //From 90% to 99%
 		['Perfeito!!', 1] //The value on this one isn't used actually, since Perfect is always "1"
 	];
 	
@@ -361,7 +361,7 @@ class PlayState extends MusicBeatState
 
 		switch (curStage)
 		{
-		    case 'a-folou':
+		    	case 'a-folou':
 				var bg:FlxSprite = new FlxSprite(0, 0).makeGraphic(Std.int(FlxG.width * 2), Std.int(FlxG.height * 2), FlxColor.WHITE);
 				add(bg);
 				bg.screenCenter(XY);
@@ -393,7 +393,7 @@ class PlayState extends MusicBeatState
 				add(trunkGround);
 
 			case 'forest-night':
-                var sky:BGSprite = new BGSprite('bemtevi/night/Sky', 0, 0, 0, 0);
+				var sky:BGSprite = new BGSprite('bemtevi/night/Sky', 0, 0, 0, 0);
 				sky.screenCenter(XY);
 				add(sky);
                 
@@ -410,7 +410,7 @@ class PlayState extends MusicBeatState
 				add(leavesFront);
 
 				plateia = new BGSprite('bemtevi/plateia', 0, 0, 0.10, 0.10, ['plateia'], true);
-			    plateia.setGraphicSize(Std.int(plateia.width * 1.5));
+			    	plateia.setGraphicSize(Std.int(plateia.width * 1.5));
 				plateia.screenCenter(XY);
 				plateia.y += 475;
 
@@ -445,7 +445,7 @@ class PlayState extends MusicBeatState
 				fire = new BGSprite('bemtevi/hell/fire', -700, 230, 0.7, 0.7, ['Fire'], true);
 
 			case 'forest-rain':
-                GameOverSubstate.characterName = 'flavin-dead';
+               		 	GameOverSubstate.characterName = 'flavin-dead';
 
 				var sky:BGSprite = new BGSprite('bemtevi/raining/Sky', 0, 0, 0, 0);
 				sky.screenCenter(XY);
@@ -769,7 +769,7 @@ class PlayState extends MusicBeatState
 		add(boyfriendGroup);
 
 		if (curStage == 'forest-night')
-		    add(plateia);
+		    	add(plateia);
 
 		if (curStage == 'forest-hell')
 			add(fire);
