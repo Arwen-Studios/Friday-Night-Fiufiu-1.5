@@ -62,6 +62,8 @@ class CreditsState extends MusicBeatState
 		
 		#end
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
+		['Deus'],
+		['Jorge Tank',		'jorgetank',		'Grande inspiração',			'https://www.youtube.com/watch?v=LYMXLHEz1ts&t=23s',			'0xFFed9521'],
 		['Arwen Team'],
 		['Hiro Mizuki',		'hiromizuki',		'Programador, Tradutor e Portador',					'https://www.youtube.com/channel/UCocLUzcPyeHkI6QG3A78F-w',	'0xFF38e06b'],
         	['SenshiZ',			'senshi_z',		'Charter Principal',					'https://twitter.com/Senshi_Z12',	'0xFF37fa19'],
