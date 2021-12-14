@@ -64,7 +64,7 @@ class CreditsState extends MusicBeatState
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
 		['Arwen Team'],
 		['Hiro Mizuki',		'hiromizuki',		'Programador, Tradutor e Portador',					'https://www.youtube.com/channel/UCocLUzcPyeHkI6QG3A78F-w',	'0xFF38e06b'],
-        ['SenshiZ',			'senshi_z',		'Charter Principal',					'https://twitter.com/Senshi_Z12',	'0xFF37fa19'],
+        	['SenshiZ',			'senshi_z',		'Charter Principal',					'https://twitter.com/Senshi_Z12',	'0xFF37fa19'],
 		['Nashira',		'nashira',		'Animadora e Artista',					'https://twitter.com/abo_bora',	'0xFF7a2ce8'],
 		['BeastlyChip',		'beastlychip',		'Compositor, Charter, Programador e Tradutor',					'https://twitter.com/BeastlyChip',	'0xFFd13bca'],		
 		['Suok',		'suok',		'Artista',					'https://twitter.com/oSuOk3',	'0xFFd41c53'],
@@ -83,7 +83,6 @@ class CreditsState extends MusicBeatState
 		['PolybiusProxy',		'polybiusproxy',	'Extensão de Carregar Vídeos .MP4',						'https://twitter.com/polybiusproxy',	'0xFFE01F32'],
 		['gedehari',			'gedehari',			'Base de Waveform no Editor de Chart',				'https://twitter.com/gedehari',			'0xFFFF9300'],
 		['Keoiki',				'keoiki',			'Animações de Note Splash',							'https://twitter.com/Keoiki_',			'0xFFFFFFFF'],
-		['SandPlanet',			'sandplanet',		'Dono do Mascote\nPrincipal Contribuidor da Engine',		'https://twitter.com/SandPlanetNG',	'0xFFD10616'],
 		['bubba',				'bubba',		'Compositor Convidado de "Hot Dilf"',	'https://www.youtube.com/channel/UCxQTnLmv0OAS63yzk9pVfaw',	'0xFF61536A'],
 		[''],
 		["Funkin' Crew"],
