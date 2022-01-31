@@ -3010,7 +3010,8 @@ class PlayState extends MusicBeatState
 		} else {
 			var achieve:String = checkForAchievement(['week1_nomiss', 'week2_nomiss', 'week3_nomiss', 'week4_nomiss',
 				'week5_nomiss', 'week6_nomiss', 'week7_nomiss', 'ur_bad',
-				'ur_good', 'hype', 'two_keys', 'toastie', 'debugger']);
+				'ur_good', 'hype', 'two_keys', 'toastie', '
+']);
 
 			if(achieve != null) {
 				startAchievement(achieve);
@@ -4084,16 +4085,9 @@ class PlayState extends MusicBeatState
 							}
 						}
 					case 'aafolou_nomiss':
-						/*if(campaignMisses + songMisses < 1 && storyPlaylist.length <= 1 && !changedDifficulty && !usedPractice)
-						{
-							var weekName:String = WeekData.getWeekFileName();
-							switch(weekName) //I know this is a lot of duplicated code, but it's easier readable and you can add weeks with different names than the achievement tag
-							{
-								case 'aafolou':
-									if(achievementName == 'aafolou_nomiss') unlock = true;
-							}
-						}*/
-						//i'll code on it later, not working now
+						if(Paths.formatToSongPath(SONG.song) == 'a-a-folou' && !usedPractice && !changedDifficulty && songMisses < 1) {
+							unlock = true;
+						}
 					case 'ur_bad':
 						if(ratingPercent < 0.2 && !practiceMode && !cpuControlled) {
 							unlock = true;
