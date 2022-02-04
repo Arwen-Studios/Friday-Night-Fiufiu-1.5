@@ -67,7 +67,7 @@ class PlayState extends MusicBeatState
 		['Ruim', 0.5], //From 40% to 49%
 		['Bruh', 0.6], //From 50% to 59%
 		['Meh', 0.69], //From 60% to 68%
-		['Tá Bom', 0.7], //69%
+		['Sussy Number', 0.7], //69%
 		['Uau', 0.8], //From 70% to 79%
 		['Ótimo', 0.9], //From 80% to 89%
 		['Tá foda!', 1], //From 90% to 99%
