@@ -133,20 +133,6 @@ class PauseSubState extends MusicBeatSubstate
 		if (accepted)
 		{
 			var daSelected:String = menuItems[curSelected];
-			for (i in 0...difficultyChoices.length-1) {
-				if(difficultyChoices[i] == daSelected) {
-					var name:String = PlayState.SONG.song.toLowerCase();
-					var poop = Highscore.formatSong(name, curSelected);
-					PlayState.SONG = Song.loadFromJson(poop, name);
-					PlayState.storyDifficulty = curSelected;
-					CustomFadeTransition.nextCamera = transCamera;
-					MusicBeatState.resetState();
-					FlxG.sound.music.volume = 0;
-					PlayState.changedDifficulty = true;
-					PlayState.cpuControlled = false;
-					return;
-				}
-			} 
 
 			switch (daSelected)
 			{
