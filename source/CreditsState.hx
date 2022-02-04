@@ -62,37 +62,187 @@ class CreditsState extends MusicBeatState
 		
 		#end
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
-		['Arwen Team'],
-		['Hiro Mizuki',		'hiromizuki',		'Programador, Tradutor e Portador',					'https://www.youtube.com/channel/UCocLUzcPyeHkI6QG3A78F-w',	'0xFF38e06b'],
-        	['SenshiZ',			'senshi_z',		'Charter Principal',					'https://twitter.com/Senshi_Z12',	'0xFF37fa19'],
-		['Nashira',		'nashira',		'Animadora e Artista',					'https://twitter.com/abo_bora',	'0xFF7a2ce8'],
-		['BeastlyChip',		'beastlychip',		'Compositor, Charter, Programador e Tradutor',					'https://twitter.com/BeastlyChip',	'0xFFd13bca'],		
-		['Suok',		'suok',		'Artista',					'https://twitter.com/oSuOk3',	'0xFFd41c53'],
-		['BeastlyMaxx',		'maxx',		'Compositora',					'https://twitter.com/euEkokichi',	'0xFFe66300'],
-		['NaferNightmare',		'nafernightmare',		'Animador e Artista',					'https://twitter.com/NaferNightmare',	'0xFFeda12f'],
-		['NxtVithor',		'nxtvithor',		'Apoio nas Charts',					'https://twitter.com/NxtVithor',	'0xFFf5de11'],
-		['Roaded64',		'roaded64',		'Primeiro Programador Principal (V1)',					'https://twitter.com/RoadedOfficial',	'0xFF151d3b'],
-		['Lone',		'lone',		'Artista, Animador e Programador (V1)',					'https://twitter.com/Lonius_',	'0xFFde1212'],
-		[''],
-		['Time da Psych Engine'],
-		['Shadow Mario',		'shadowmario',		'Programador Principal da Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
-		['RiverOaken',			'riveroaken',		'Artista/Animador Principal da Psych Engine',				'https://twitter.com/river_oaken',		'0xFFC30085'],
-		[''],
-		['Contribuidores da Engine'],
-		['shubs',				'shubs',			'Programador do Novo Input',						'https://twitter.com/yoshubs',			'0xFF4494E6'],
-		['PolybiusProxy',		'polybiusproxy',	'Extensão de Carregar Vídeos .MP4',						'https://twitter.com/polybiusproxy',	'0xFFE01F32'],
-		['gedehari',			'gedehari',			'Base de Waveform no Editor de Chart',				'https://twitter.com/gedehari',			'0xFFFF9300'],
-		['Keoiki',				'keoiki',			'Animações de Note Splash',							'https://twitter.com/Keoiki_',			'0xFFFFFFFF'],
-		['bubba',				'bubba',		'Compositor Convidado de "Hot Dilf"',	'https://www.youtube.com/channel/UCxQTnLmv0OAS63yzk9pVfaw',	'0xFF61536A'],
-		[''],
-		["Funkin' Crew"],
-		['ninjamuffin99',		'ninjamuffin99',	"Programador do Friday Night Funkin'",				'https://twitter.com/ninja_muffin99',	'0xFFF73838'],
-		['PhantomArcade',		'phantomarcade',	"Animador do Friday Night Funkin'",					'https://twitter.com/PhantomArcade3K',	'0xFFFFBB1B'],
-		['evilsk8r',			'evilsk8r',			"Artista do Friday Night Funkin'",					'https://twitter.com/evilsk8r',			'0xFF53E52C'],
-		['kawaisprite',			'kawaisprite',		"Compositor do Friday Night Funkin'",					'https://twitter.com/kawaisprite',		'0xFF6475F3'],
-		[''],
-		['Banido'],
-		['Suki',		'suki',		'Só atrapalhou no desenvolvimento >:(',				'https://youtu.be/mMF-cGy3Yhk',			'0xFFd41c53']
+		[
+			'Arwen Team'
+		],
+		[
+			'Hiro Mizuki',
+			'hiromizuki',
+			'Programador, Tradutor e Portador',
+			'https://www.youtube.com/channel/UCocLUzcPyeHkI6QG3A78F-w',
+			'0xFF38e06b'
+		],
+        	[
+			'SenshiZ',
+			'senshi_z',
+			'Charter Principal',
+			'https://twitter.com/Senshi_Z12',
+			'0xFF37fa19'
+		],
+		[
+			'Nashira',
+			'nashira',
+			'Animadora e Artista',
+			'https://twitter.com/abo_bora',
+			'0xFF7a2ce8'
+		],
+		[
+			'BeastlyChip',
+			'beastlychip',
+			'Compositor, Charter, Programador e Tradutor',
+			'https://twitter.com/BeastlyChip',
+			'0xFFd13bca'
+		],		
+		[
+			'Suok',
+			'suok',
+			'Artista',
+			'https://twitter.com/oSuOk3',
+			'0xFFd41c53'
+		],
+		[
+			'BeastlyMaxx',
+			'maxx',
+			'Compositora',
+			'https://twitter.com/euEkokichi',
+			'0xFFe66300'
+		],
+		[
+			'NaferNightmare',
+			'nafernightmare',
+			'Animador e Artista',
+			'https://twitter.com/NaferNightmare',
+			'0xFFeda12f'
+		],
+		[
+			'NxtVithor',
+			'nxtvithor',
+			'Apoio nas Charts',
+			'https://twitter.com/NxtVithor',
+			'0xFFf5de11'
+		],
+		[
+			'Roaded64',
+			'roaded64',
+			'Primeiro Programador Principal (V1)',
+			'https://twitter.com/RoadedOfficial',
+			'0xFF151d3b'
+		],
+		[
+			'Lone',
+			'lone',
+			'Artista, Animador e Programador (V1)',
+			'https://twitter.com/Lonius_',
+			'0xFFde1212'
+		],
+		[
+			''
+		],
+		[
+			'Time da Psych Engine'
+		],
+		[
+			'Shadow Mario',
+			'shadowmario',
+			'Programador Principal da Psych Engine',
+			'https://twitter.com/Shadow_Mario_',
+			'0xFFFFDD33'
+		],
+		[
+			'RiverOaken',
+			'riveroaken',
+			'Artista/Animador Principal da Psych Engine',
+			'https://twitter.com/river_oaken',
+			'0xFFC30085'
+		],
+		[
+			''
+		],
+		[
+			'Contribuidores da Engine'
+		],
+		[
+			'shubs',
+			'shubs',
+			'Programador do Novo Input',
+			'https://twitter.com/yoshubs',
+			'0xFF4494E6'
+		],
+		[
+			'PolybiusProxy',
+			'polybiusproxy',
+			'Extensão de Carregar Vídeos .MP4',
+			'https://twitter.com/polybiusproxy',
+			'0xFFE01F32'
+		],
+		[
+			'gedehari',
+			'gedehari',
+			'Base de Waveform no Editor de Chart',
+			'https://twitter.com/gedehari',
+			'0xFFFF9300'
+		],
+		[
+			'Keoiki',
+			'keoiki',
+			'Animações de Note Splash',
+			'https://twitter.com/Keoiki_',
+			'0xFFFFFFFF'
+		],
+		[
+			'bubba',
+			'bubba',
+			'Compositor Convidado de "Hot Dilf"',
+			'https://www.youtube.com/channel/UCxQTnLmv0OAS63yzk9pVfaw',
+			'0xFF61536A'
+		],
+		[
+			''
+		],
+		[
+			"Funkin' Crew"
+		],
+		[
+			'ninjamuffin99',
+			'ninjamuffin99',
+			"Programador do Friday Night Funkin'",
+			'https://twitter.com/ninja_muffin99',
+			'0xFFF73838'
+		],
+		[
+			'PhantomArcade',
+			'phantomarcade',
+			"Animador do Friday Night Funkin'",
+			'https://twitter.com/PhantomArcade3K',
+			'0xFFFFBB1B'
+		],
+		[
+			'evilsk8r',
+			'evilsk8r',
+			"Artista do Friday Night Funkin'",
+			'https://twitter.com/evilsk8r',
+			'0xFF53E52C'
+		],
+		[
+			'kawaisprite',
+			'kawaisprite',
+			"Compositor do Friday Night Funkin'",
+			'https://twitter.com/kawaisprite',
+			'0xFF6475F3'
+		],
+		[
+			''
+		],
+		[
+			'Banido'
+		],
+		[
+			'Suki',
+			'suki',
+			'Só atrapalhou no desenvolvimento >:(',
+			'https://youtu.be/mMF-cGy3Yhk',
+			'0xFFd41c53'
+		]
 	];
 		
 		
