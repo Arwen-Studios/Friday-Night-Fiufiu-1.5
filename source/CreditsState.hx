@@ -80,7 +80,7 @@ class CreditsState extends MusicBeatState
 			'0xFF37fa19'
 		],
 		[
-			'Nashira',
+			'Yoisabo',
 			'nashira',
 			'Animadora e Artista',
 			'https://twitter.com/abo_bora',
